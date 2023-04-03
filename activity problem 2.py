@@ -1,4 +1,4 @@
-#ask user to input a message
+#ask user to input a message to be decrypted
 encrypted_message = input(str("Please input an encrypted message"))
 message = ""
 
